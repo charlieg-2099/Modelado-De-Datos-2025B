@@ -132,10 +132,10 @@ Para futuras mejoras se plantean las siguientes líneas de evolución:
 
 ## 🏁 Créditos  
 
-> **Autor:** Name  
+> **Autor:** Carlos Alberto Guzmán Montes 
 > **Proyecto:** Mitigación de Concurrencia en DB2 mediante Redis en IBM Cloud  
 > **Programa:** Maestría en Cómputo Aplicado – Trabajo Final de Modelado de Datos  
-> **Fecha:** 2025  
+> **Fecha:** Nov 2025  
 
 ---
 📚 *Este trabajo refleja la unión entre teoría académica y práctica profesional, demostrando cómo la ingeniería de datos puede evolucionar hacia soluciones más ágiles, seguras y escalables.*
