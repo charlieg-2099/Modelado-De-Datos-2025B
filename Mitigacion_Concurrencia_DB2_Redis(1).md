@@ -1,6 +1,6 @@
 # 🚀 Mitigación de Concurrencia en DB2 mediante Redis en IBM Cloud  
 ### 🧩 Un enfoque híbrido para aplicaciones distribuidas  
-**Autor:** Name  
+**Autor:** Carlos Alberto Guzmán Montes  
 **Programa:** Maestría en Cómputo Aplicado – Trabajo Final de Modelado de Datos  
 
 ---
